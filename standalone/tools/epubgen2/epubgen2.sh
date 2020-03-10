@@ -68,10 +68,10 @@ ALL_RUBRICS=("Trident 1570" "Trident 1910" "Divino Afflatu" "Reduced 1955" "Rubr
 ALL_RUBRICS_NAME=("_1570" "_1910" "_DA" "_1955" "" "NC")
 
 MONTHNAMES=(Ianuarius Februarius Martius Aprilis Maius Iunius Iulius Augustus September October November December)
-HORA_INDEX_LAST=7
-HORAS_FILENAMES=(1-Matutinum 2-Laudes 3-Prima 4-Tertia 5-Sexta 6-Nona 7-Vespera 8-Completorium)
-HORAS_NAMES=(Matutinum Laudes Prima Tertia Sexta Nona Vespera Completorium)
-HORAS_NAMES_SHORT=(M L P T S N V C)
+HORA_INDEX_LAST=0
+HORAS_FILENAMES=(1-Matutinum)
+HORAS_NAMES=(Matutinum)
+HORAS_NAMES_SHORT=(M)
 
 YEAR_RE='^[0-9]+$'
 
