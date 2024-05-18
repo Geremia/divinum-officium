@@ -1,9 +1,3 @@
 User-agent: *
-Crawl-delay: 10
-
-User-agent: Googlebot
-Disallow: /divinum/cgi-bin/horas/Pofficium.pl
-
-User-agent: GoogleOther
 Disallow: /divinum/cgi-bin/horas/Pofficium.pl
 
