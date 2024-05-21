@@ -158,7 +158,6 @@ $head = $title;
 $headline = setheadline();
 headline($head);
 
-load_languages_data($lang1, $lang2, $version, $missa);
 $only = 1;    # single-column
 ordo();
 
